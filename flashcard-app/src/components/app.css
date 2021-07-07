@@ -11,3 +11,14 @@
     border-style: solid;
 
 }
+
+.handleClick{
+    background-color: aqua;
+}
+
+.rowColor{
+	background-color:yellow;
+}
+.selected {
+    background-color: coral;
+  }
